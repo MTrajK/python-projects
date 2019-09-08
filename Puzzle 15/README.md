@@ -5,6 +5,11 @@
 - python 3+ ([https://www.python.org/downloads/](https://www.python.org/downloads/)) 
 - [graphics.py](https://pypi.org/project/graphics.py/) (```pip install graphics.py```)
 
+## Usage
+```shell
+python puzzle15.py
+```
+
 ## Description
 This game has 3 views:
 1. Menu - choose the game mode: easy (20 random moves), medium (50 random moves) and hard (100 random moves)

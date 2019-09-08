@@ -1,3 +1,8 @@
+"""
+Created by: Meto Trajkovski
+Email: metot@hotmail.com
+"""
+
 import wx  
 import json
 
