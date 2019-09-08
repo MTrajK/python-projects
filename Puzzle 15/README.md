@@ -10,3 +10,5 @@ This game has 3 views:
 1. Menu - choose the game mode: easy (20 random moves), medium (50 random moves) and hard (100 random moves)
 2. Game - move the empty spot in 4 directions (up, right, down, left) using the keyboard arrows 
 3. End - Shows with how many moves the game has completed, a button for a new game and an exit button
+
+![Puzzle 15](https://raw.githubusercontent.com/MTrajK/python-projects/master/Puzzle%2015/puzzle15.gif "Puzzle 15") 
