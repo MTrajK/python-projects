@@ -47,7 +47,7 @@ new_expense = {
 response = connection.Expenses.post(new_expense)
 ```
 
-See more details about the usage into the wiki pages of this project.
+See more details about the usage [here](docs/home.md).
 
 ## License
 
