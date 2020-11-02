@@ -4,8 +4,8 @@ This script extracts a list of active eBay listings from a eBay seller using the
 
 
 ## Requirements
-- python 3+ ([https://www.python.org/downloads/](https://www.python.org/downloads/)) 
-- [gevent](https://pypi.org/project/gevent/) (```pip install gevent```) 
+- python 3+ ([https://www.python.org/downloads/](https://www.python.org/downloads/))
+- [gevent](https://pypi.org/project/gevent/) (```pip install gevent```)
 - [ebaysdk](https://github.com/timotheus/ebaysdk-python) (```pip install ebaysdk```)
 
 ## Usage
